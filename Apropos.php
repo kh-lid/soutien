@@ -15,7 +15,7 @@
 		</div>
 		<ul class="main-nav">
 			<li ><a href="http://localhost/soutien/index.php">Accuiel</a></li>
-			<li><a href="http://localhost/soutien/service.php">Services</a></li>
+			<li><a href="./service.php">Services</a></li>
 			<li class="act"><a href="http://localhost/soutien/Apropos.php">Apropos de nous</a></li>
 			<li><a href="http://localhost/soutien/contacter.php">Contacter </a></li>
 		</ul>

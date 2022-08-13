@@ -7,6 +7,86 @@
 	<link rel="stylesheet" type="text/css" href="css/Contacter.css">
 		<title>Contacter</title>
 		<style type="text/css">
+			*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family:sans-serif;
+	background:#f1f1f1;
+}
+header{
+	padding:50px;
+    background-color: #333; 
+	background-size: cover;
+	background-position: center;
+}
+main{
+	width: 90vw;
+	margin: 0 auto;
+	padding: 30px 40px;
+	min-height: calc(100vh);
+}
+article{
+	background-color: #fff;
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+
+}
+article:last-child{
+margin-bottom: 0px;
+}
+article h3 {
+	margin: 10px 0px 25px 0px;
+
+}
+article p{
+	margin-top: 16px;
+	line-height: 24px;
+}
+footer{
+	text-align: center;
+	background-color: #333;
+	color:#fff;
+	padding: 20px;
+}
+.main-nav{
+	float: right;
+	list-style: none;
+	margin-top:0px;
+}
+.main-nav li{
+	display: inline-block;
+}
+.main-nav li a{
+	color: white;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "roboto",sans-serif;
+	font-size: 15px;
+}
+.main-nav li.act a{
+	border: 1px solid white;
+}
+.main-nav li a:hover{
+	border: 1px solid white;
+} 
+.logo img{
+
+	width:80px;
+	height: auto;
+	float: left;
+	
+}
+body{
+	font-family: monospace;
+}
+.row{
+	max-width: 1200px;
+}
+
 		 img{
 		 	width: 20px;
 		 	height: 20px;

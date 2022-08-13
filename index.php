@@ -11,13 +11,13 @@
 	<header>
 		<div class="row">
 		<div class="logo">
-			<a href="http://localhost/soutien/index.php"><img src="images/logo.jpg"></a>
+			<a href="http://sout-ien.herokuapp.com/index.php"><img src="images/logo.jpg"></a>
 		</div>
 		<ul class="main-nav">
-			<li class="act"><a href="http://localhost/soutien/index.php">Accuiel</a></li>
-			<li><a href="http://localhost/soutien/service.php">Services</a></li>
-			<li><a href="http://localhost/soutien/Apropos.php">Apropos de nous</a></li>
-			<li><a href="http://localhost/soutien/contacter.php">Contacter </a></li>
+			<li class="act"><a href="https://sout-ien.herokuapp.com/index.php">Accuiel</a></li>
+			<li><a href="http://sout-ien.herokuapp.com/service.php">Services</a></li>
+			<li><a href="http://sout-ien.herokuapp.com/Apropos.php">Apropos de nous</a></li>
+			<li><a href="http://sout-ien.herokuapp.com/contacter.php">Contacter </a></li>
 		</ul>
 		
 	</div>  
@@ -37,7 +37,7 @@
 					</tr>
 			</table><br><h2 style="text-align: center;">Si  vous avez besoin de soutien scolaire et des formations en informatique</h2>
 			<h2 style="text-align: center;">vous étes sur bon endroit</h2>
-			<a href="http://localhost/soutien/contacter.php"><h2 style="text-align: center;">vous pouvez nous contacter </h2></a>
+			<a href="http://sout-ien.herokuapp.com/contacter.php"><h2 style="text-align: center;">vous pouvez nous contacter </h2></a>
 </p>
 	</article>
     </main>

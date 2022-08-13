@@ -103,7 +103,7 @@ body{
 			<a href="http://sout-ien.herokuapp.com/index.php"><img src="images/logo.jpg"></a>
 		</div>
 		<ul class="main-nav">
-			<li ><a href="http://sout-ien.herokuapp.com/index.php">Accuiel</a></li>
+			<li ><a href="http://sout-ien.herokuapp.com/index.php">Accueil</a></li>
 			<li ><a href="http://sout-ien.herokuapp.com/service.php">Services</a></li>
 			<li ><a href="http://sout-ien.herokuapp.com/Apropos.php">Apropos de nous</a></li>
 			<li class="act"><a href="http://sout-ien.herokuapp.com/contacter.php">Contacter </a></li>

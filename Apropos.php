@@ -11,13 +11,13 @@
 	<header>
 		<div class="row">
 		<div class="logo">
-			<a href="http://localhost/soutien/index.php"><img src="images/logo.jpg"></a>
+			<a href="http://sout-ien.herokuapp.com/index.php"><img src="images/logo.jpg"></a>
 		</div>
 		<ul class="main-nav">
-			<li ><a href="http://localhost/soutien/index.php">Accuiel</a></li>
+			<li ><a href="http://sout-ien.herokuapp.com/index.php">Accuiel</a></li>
 			<li><a href="./service.php">Services</a></li>
-			<li class="act"><a href="http://localhost/soutien/Apropos.php">Apropos de nous</a></li>
-			<li><a href="http://localhost/soutien/contacter.php">Contacter </a></li>
+			<li class="act"><a href="http://sout-ien.herokuapp.com/Apropos.php">Apropos de nous</a></li>
+			<li><a href="http://sout-ien.herokuapp.com/contacter.php">Contacter </a></li>
 		</ul>
 		
 	</div>  

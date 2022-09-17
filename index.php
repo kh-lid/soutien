@@ -34,8 +34,8 @@
 						<td><img style="width:400px" src="images/c1.webp"></td>
 						<td><img src="images/c2.jpg"></td>
 					</tr>
-			</table><br><h2 style="text-align: center;">Si vous avez besoin de soutien scolaire et / ou d’une formations pour apprendre ou vous améliorer en informatique, vous êtes sur bon endroit</h2>
-			<h2 style="text-align: center;">N’hésitez pas à me contacter</h2>
+			</table><br><h2 style="text-align: center;">Si vous avez besoin de soutien scolaire et / ou d’une formations pour apprendre ou vous améliorer en informatique, </h2>
+			<h2 style="text-align: center;">vous êtes sur bon endroit</h2>
 			<a href="http://sout-ien.herokuapp.com/contacter.php"><h2 style="text-align: center;">N’hésitez pas à me contacter </h2></a>
 </p>
 	</article>

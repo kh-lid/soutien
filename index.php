@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="css/home1.css">
 		<title>Cours de soutien</title>
 </head>
-<body>
+<body style>
 	<header>
 		<div class="row">
 		<div class="logo">
@@ -15,8 +15,8 @@
 		</div>
 		<ul class="main-nav">
 			<li class="act"><a href="https://sout-ien.herokuapp.com/index.php">Accueil</a></li>
-			<li><a href="http://sout-ien.herokuapp.com/service.php">Services</a></li>
-			<li><a href="http://sout-ien.herokuapp.com/Apropos.php">Apropos de nous</a></li>
+			<li><a href="http://sout-ien.herokuapp.com/service.php">LES COURS </a></li>
+			<li><a href="http://sout-ien.herokuapp.com/Apropos.php">QUI SUIS-JE </a></li>
 			<li><a href="http://sout-ien.herokuapp.com/contacter.php">Contacter </a></li>
 		</ul>
 		
@@ -25,8 +25,7 @@
 	<main>
 		<article>
 
-			<h2 style="text-align: center;">cours de soutien en Mathématiques ,informatique ,Anglais et physique <br> 
-			pour tous les niveaux</h2>
+			<h2 style="text-align: center;">Cours de soutien en mathématiques, informatique, anglais et physiques pour tous les niveaux</h2>
 			<h3></h3>
 			<p> 
 				<table>
@@ -35,8 +34,8 @@
 						<td><img style="width:400px" src="images/c1.webp"></td>
 						<td><img src="images/c2.jpg"></td>
 					</tr>
-			</table><br><h2 style="text-align: center;">Si  vous avez besoin de soutien scolaire et des formations en informatique</h2>
-			<h2 style="text-align: center;">vous étes sur bon endroit</h2>
+			</table><br><h2 style="text-align: center;">Si vous avez besoin de soutien scolaire et / ou d’une formations pour apprendre ou vous améliorer en informatique, vous êtes sur bon endroit</h2>
+			<h2 style="text-align: center;">N’hésitez pas à me contacter</h2>
 			<a href="http://sout-ien.herokuapp.com/contacter.php"><h2 style="text-align: center;">vous pouvez nous contacter </h2></a>
 </p>
 	</article>

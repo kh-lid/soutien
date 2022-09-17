@@ -36,7 +36,7 @@
 					</tr>
 			</table><br><h2 style="text-align: center;">Si vous avez besoin de soutien scolaire et / ou d’une formations pour apprendre ou vous améliorer en informatique, vous êtes sur bon endroit</h2>
 			<h2 style="text-align: center;">N’hésitez pas à me contacter</h2>
-			<a href="http://sout-ien.herokuapp.com/contacter.php"><h2 style="text-align: center;">vous pouvez nous contacter </h2></a>
+			<a href="http://sout-ien.herokuapp.com/contacter.php"><h2 style="text-align: center;">N’hésitez pas à me contacter </h2></a>
 </p>
 	</article>
     </main>

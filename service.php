@@ -14,10 +14,10 @@
 			<a href="http://sout-ien.herokuapp.com/index.php"><img src="images/logo.jpg"></a>
 		</div>
 		<ul class="main-nav">
-			<li ><a href="http://sout-ien.herokuapp.com/index.php">Accueil</a></li>
-			<li class="act"><a href="http://sout-ien.herokuapp.com/service.php">Services</a></li>
-			<li><a href="http://sout-ien.herokuapp.com/Apropos.php">Apropos de nous</a></li>
-			<li><a href="http://sout-ien.herokuapp.com/contacter.php">Contacter </a></li>
+			<li ><a href="http://sout-ien.herokuapp.com/index.php">ACCUEIL</a></li>
+			<li class="act"><a href="http://sout-ien.herokuapp.com/service.php">LES COURS</a></li>
+			<li><a href="http://sout-ien.herokuapp.com/Apropos.php">QUI SUIS-JE </a></li>
+			<li><a href="http://sout-ien.herokuapp.com/contacter.php">CONTACTER </a></li>
 		</ul>
 		
 	</div>  
@@ -25,38 +25,28 @@
 	<main>
 		<article style="background-color: lightblue">
 
-			<h1 style="color: blue">Cours de soutien en Mathématiques</h1><br>
-			<ul>
-				<li><h2>Système maroccain (Primaire , Collége , Lycée , Supérieur...)</h2></li> <br>
-				<li><h2>Systtème française( quatrième Année collège , 5 ème , 6 ème, seconde, première , terminal...)</h2></li><br>
-				<li><h2>Système Belg</h2></li><br>
-				<li><h2>Système canadien</h2></li><br>
-				<li><h2>Système Bac international</h2></li><br>
-			</ul>
-			<h1 style="color: blue">Cours de soutien dans les modules suivants</h1><br>
+			<h1 style="color: red">JE DONNE des cours de soutien en :</h1><br>
+			<h1 style="color:blue">1. Mathématiques</h1><br>
 			<ul>
 			<li><h2>Probabilité ( les lois , probabilité conditionnelle , total , bayes , dénombrement...) </h2></li><br>
 			<li><h2>Analyse ( les suites, Les intégrales , les équations différentielles, développement limité , les séries numérique , les séries entière , les séries de Fourier ...) </h2></li><br>
-			<li><h2>Algèbre ( linéaire , espace vectoriel , espace hilbertien, les formes quadratique , les groupes , les anneaux ...)</h2></li><br>
-			<li><h2>Optimisation ( avec contraintes , sans contraintes , gradient , simplex...) </h2></li><br>
-			<li><h2>Statistiques ( descriptif , infirentiel, échantillonnage , estimation ...)</h2></li><br>
-			<li><h2>analyse numérique( les éléments finis , d'effervescence fini , ....)</h2></li><br>
-			<li><h2>calcul matricielle ( jacobie , Gauss , QR , LU , les normes matricielle...)</h2></li><br>
+			<li><h2>Algèbre (linéaire, espace vectoriel, espace hilbertien, les formes quadratique, les groupes, les anneaux…)</h2></li><br>
+			<li><h2>Optimisation (avec contraintes, sans contraintes, gradient, simplex…) </h2></li><br>
+			<li><h2>Statistiques (descriptif, inférentielles, échantillonnage, estimation…)</h2></li><br>
+			<li><h2>Analyse numérique (les éléments finis, d'effervescence finie…)</h2></li><br>
+			<li><h2>Calcul matriciel (Jacobi, Gauss, QR, LU, normes matricielles...)</h2></li><br>
 			</ul>
-			<h1 style="color: blue">Cours de soutien en Informatique</h1><br>
+			<h1 style="color:blue">2. Informatique</h1><br>
 			<ul>
-			<li><h2>Système maroccain (Primaire , Collége , Lycée , Supérieur...)</h2></li> <br>
-				<li><h2>Systtème française( quatrième Année collège , 5 ème , 6 ème, seconde, première , terminal...)</h2></li><br>
-				<li><h2>Système Belg</h2></li><br>
-				<li><h2>Système canadien</h2></li><br>
+			        <li><h2>Les bases de l'informatique</h2></li> <br>
+				<li><h2>Bureautique</h2></li><br>
+				<li><h2>Programmation en langage C</h2></li><br>
+				<li><h2>Programmation Orienté Objet en Java et PHP</h2></li><br>
+				<li><h2>Formation en développement web</h2></li><br>
 			</ul>
-			<h1 style="color: blue">des formations en Informatique </h1><br>
-			<ul>
-				<li><h2>les bases de l'informatique</h2></li><br>
-				<li><h2>bureautique</h2></li><br>
-				<li><h2>programmation en langage c</h2></li><br>
-				<li><h2>programmation Orienté Ojbet en Java et php...</h2></li><br>
-				<li><h2>formation en développement web ....</h2></li><br>
+			<h1 style="color:blue">3.Anglais </h1><br>
+			<h1 style="color:blue">4. physique </h1><br>
+			<h1 style="color:blue">Tous les cours sont adaptés à tous les niveaux du primaire au supérieur </h1><br>
               
 			</ul>
 			<h1 style="color: blue">cours de soutien en Anglais et physique pour tous les niveaux  </h1><br>

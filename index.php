@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="css/home1.css">
 		<title>Cours de soutien</title>
 </head>
-<body style>
+<body>
 	<header>
 		<div class="row">
 		<div class="logo">

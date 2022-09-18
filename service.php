@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-compatible" content="ie-edge">
 	<link rel="stylesheet" type="text/css" href="css/service.css">
-		<title>Services</title>
+		<title>LES COURS</title>
 </head>
 <body>
 	<header>
@@ -50,7 +50,7 @@
               
 			</ul>
 			<h1 style="color: blue">cours de soutien en Anglais et physique pour tous les niveaux  </h1><br>
-			<h1 style="color: blue">Avantages:</h1><br>
+			<h1 style="color: red">Avantages:</h1><br>
 			<ul>
 				<li><h2>la réalisation des exemples des projets</h2></li><br>
 				<li><h2>je travaille avec tablette graphique et un tableau blanc virtuel ce qui garantit la fluidité du cours</h2></li><br>

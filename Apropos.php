@@ -14,10 +14,10 @@
 			<a href="http://sout-ien.herokuapp.com/index.php"><img src="images/logo.jpg"></a>
 		</div>
 		<ul class="main-nav">
-			<li ><a href="http://sout-ien.herokuapp.com/index.php">Accueil</a></li>
+			<li ><a href="http://sout-ien.herokuapp.com/index.php">ACCUEIL</a></li>
 			<li><a href="./service.php">LES COURS</a></li>
 			<li class="act"><a href="http://sout-ien.herokuapp.com/Apropos.php">QUI SUIS-JE </a></li>
-			<li><a href="http://sout-ien.herokuapp.com/contacter.php">Contacter </a></li>
+			<li><a href="http://sout-ien.herokuapp.com/contacter.php">CONTACTER</a></li>
 		</ul>
 		
 	</div>  

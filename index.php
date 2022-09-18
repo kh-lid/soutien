@@ -33,7 +33,7 @@
 						<marquee><td><img style="width:230px" src="images/téléchargement.jfif"></td></marquee>
 						<td><img style="width:400px" src="images/c1.webp"></td>
 						<td><img src="images/c2.jpg"></td>
-						<td><img src="https://aup.imgix.net/user_images/58791/cours-particuliers-soutien-mathematiques-prof-maths-lycee-1544965353.jpg"></td>
+						<td><img style="width:400px" src="https://aup.imgix.net/user_images/58791/cours-particuliers-soutien-mathematiques-prof-maths-lycee-1544965353.jpg"></td>
 					</tr>
 			</table><br><h2 style="text-align: center;">Si vous avez besoin de soutien scolaire et / ou d’une formations pour apprendre ou vous améliorer en informatique, </h2>
 			<h2 style="text-align: center;">vous êtes sur bon endroit</h2>

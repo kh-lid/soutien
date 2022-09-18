@@ -44,7 +44,7 @@
 				<li><h2>Programmation Orienté Objet en Java et PHP</h2></li><br>
 				<li><h2>Formation en développement web</h2></li><br>
 			</ul>
-			<h1 style="color:blue">3.Anglais </h1><br>
+			<h1 style="color:blue">3. Anglais </h1><br>
 			<h1 style="color:blue">4. physique </h1><br>
 			<h1 style="color:blue">Tous les cours sont adaptés à tous les niveaux du primaire au supérieur </h1><br>
               

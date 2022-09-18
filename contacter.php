@@ -123,15 +123,7 @@ body{
 			<li><h2>whatsapp<a href="tel:+212655600433"> <img src="images/wh.png"> ou par appel  +212655600433</a></h2></li><br>
 </ul>
 </p>
- 	<form action="contact.php" method="post">
-  	  Mail: <input type="text" name="mail" value="" />
-    		<br />
-   	 Sujet: <input type="text" name="sujet" value="" />
-   	 <br />
-   	 Message: <textarea name="message" cols="40" rows="20"></textarea>
-   	 <br />
-   	 <input type="submit" name="envoyer" value="Envoyer" />
-	</form>
+ 	
 	</article>
     </main>
     <footer>

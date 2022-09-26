@@ -50,12 +50,7 @@
               
 			</ul>
 			<h1 style="color: blue">cours de soutien en Anglais et physique pour tous les niveaux  </h1><br>
-			<h1 style="color: red">Avantages:</h1><br>
-			<ul>
-				<li><h2>la réalisation des exemples des projets</h2></li><br>
-				<li><h2>je travaille avec tablette graphique et un tableau blanc virtuel ce qui garantit la fluidité du cours</h2></li><br>
-				<li><h2>Vous avez le choix entre un travail individuel et un travail en groupe (si vous avez des amis/es intéressés).</h2></li>
-			</ul>
+			
 			
 			<p> 
 

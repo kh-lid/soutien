@@ -23,7 +23,7 @@
 	</div>  
 	</header><br>
 	<main>
-		<article style="background-color: linen">
+		<article style="background-color: lightblue">
 <p>
 			<h2 style="text-align: center;"  style="color: red">QUI SUIS-JE  <br></h2><br>
 			<h2 style="text-align: center;"> Titulaire d’une licence en informatique à l’université de Ouarzazate, je m’appelle Khalid, grand passionné par les mathématiques, l’informatique, l’anglais et la physique que je pratique depuis maintenant de 5 ans. </h2> <br>

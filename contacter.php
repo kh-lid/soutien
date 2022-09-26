@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-compatible" content="ie-edge">
 	<link rel="stylesheet" type="text/css" href="css/Contacter.css">
-		<title>Contacter</title>
+		<title>CONTACTER</title>
 		<style type="text/css">
 			*{
 	margin: 0;

@@ -25,7 +25,7 @@
 	<main>
 		<article style="background-color: lightblue">
 <p>
-			<h2 style="text-align: center;"  style="color: red">QUI SUIS-JE  <br></h2><br>
+			<h2 style="text-align: center,color: red;"  style="color: red">QUI SUIS-JE  <br></h2><br>
 			<h2 style="text-align: center;"> Titulaire d’une licence en informatique à l’université de Ouarzazate, je m’appelle Khalid, grand passionné par les mathématiques, l’informatique, l’anglais et la physique que je pratique depuis maintenant de 5 ans. </h2> <br>
 			<h3><li>Je donne des cours de soutien pour tous les niveaux (primaire, collège, lycée, supérieur…)</li> </h3> 
 			<h3><li>Concernant le déroulement des cours, je propose des cours particuliers individuels ou des travaux de groupe, selon vos préférences.   </li> </h3> 

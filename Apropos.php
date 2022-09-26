@@ -32,7 +32,7 @@
 			<h2><li>Je donne des cours de soutien pour tous les niveaux (primaire, collège, lycée, supérieur…)</li> </h2> <br>
 			<h2><li>Concernant le déroulement des cours, je propose des cours particuliers individuels ou des travaux de groupe, selon vos préférences.   </li> </h2> <br>
 			<h2><li>Je travaille avec une tablette graphique et un tableau blanc virtuel, garantissant ainsi la fluidité du cours. </li> </h2> <br>
-			<h2><li>J’accorde une grande importance au suivi de l'élève. Grâce une rapide relecture du cours avec celui-ci, je repère les points bloquants. Après une explication adaptée à chacun, je passe à des exercices pratiques pour ancrer les connaissances. La séance suivante, je vérifie que les connaissances sont toujours maîtrisées avant de passer à la suite.</li></h2>br>
+			<h2><li>J’accorde une grande importance au suivi de l'élève. Grâce une rapide relecture du cours avec celui-ci, je repère les points bloquants. Après une explication adaptée à chacun, je passe à des exercices pratiques pour ancrer les connaissances. La séance suivante, je vérifie que les connaissances sont toujours maîtrisées avant de passer à la suite.</li></h2><br>
 			<h2><li>Nous réalisons des exemples de projets en programmation </li> </h2>
 
 </p>

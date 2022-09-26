@@ -114,9 +114,6 @@ body{
 	<main>
 		<article>
 
-			<h1 style="text-align: center;">contacter nous </h1>
-			<p> 
-				<h2>Les intéressés n'hésitez pas à me contacter sur :</h2><br>
 <ul>		<li>		
 			<h2>Gmail <a href="mailto:khalid.aithmid99@gmail.com"><img  src="images/gm.png"> khalid.aithmid99@gmail.com</a></h2></li><br>
 			<li><h2>Facebook <a href="https://web.facebook.com/ama.ziigh.5/"><img  src="images/fb.jpg"> khalid Ait Hmid</a></h2></li><br>

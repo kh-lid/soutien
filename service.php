@@ -25,7 +25,7 @@
 	<main>
 		<article style="background-color: lightblue">
 
-			<h1 style="color: red">JE DONNE des cours de soutien en :</h1><br>
+		
 			<h1 style="color:blue">1. Mathématiques</h1><br>
 			<ul>
 			<li><h2>Probabilité ( les lois , probabilité conditionnelle , total , bayes , dénombrement...) </h2></li><br>
@@ -45,11 +45,10 @@
 				<li><h2>Formation en développement web</h2></li><br>
 			</ul>
 			<h1 style="color:blue">3. Anglais </h1><br>
-			<h1 style="color:blue">4. physique </h1><br>
+			<h1 style="color:blue">4. Physique </h1><br>
 			<h1 style="color:blue">Tous les cours sont adaptés à tous les niveaux du primaire au supérieur </h1><br>
               
 			</ul>
-			<h1 style="color: blue">cours de soutien en Anglais et physique pour tous les niveaux  </h1><br>
 			
 			
 			<p> 

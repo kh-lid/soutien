@@ -12,7 +12,7 @@
 		<div class="row">
 		<div class="logo">
 			<a href="http://sout-ien.herokuapp.com/index.php"><img src="images/logo.jpg"></a>
-		</div>
+		
 		<ul class="main-nav">
 			<li class="act"><a href="https://sout-ien.herokuapp.com/index.php">ACCUEIL</a></li>
 			<li><a href="http://sout-ien.herokuapp.com/service.php">LES COURS </a></li>
@@ -20,7 +20,7 @@
 			<li><a href="http://sout-ien.herokuapp.com/contacter.php">CONTACTER </a></li>
 		</ul>
 		
-	</div>  
+	  
 	</header><br>
 	<main>
 		<article>

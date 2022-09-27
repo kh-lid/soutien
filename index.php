@@ -28,13 +28,12 @@
 			<marquee><h2 style="text-align: center;">Cours de soutien en mathématiques, informatique, anglais et physiques pour tous les niveaux</h2></marquee>
 			<h3></h3>
 			<p> <div style="position: relative;">
-				    <table>
-					<tr> 
-						<td><img style="width:230px" src="images/téléchargement.jfif"></td>
-						<td><img style="width:400px" src="images/c1.webp"></td>
-						<td><img src="images/c2.jpg"></td>
-					</tr>
-			</table><br></div><h2 style="text-align: center;">Si vous avez besoin de soutien scolaire et / ou d’une formations pour apprendre ou vous améliorer en informatique, </h2>
+				    
+						<img style="width:230px" src="images/téléchargement.jfif">
+						<img style="width:400px" src="images/c1.webp">
+						<img src="images/c2.jpg">
+					
+			<br></div><h2 style="text-align: center;">Si vous avez besoin de soutien scolaire et / ou d’une formations pour apprendre ou vous améliorer en informatique, </h2>
 			<h2 style="text-align: center;">vous êtes sur bon endroit</h2>
 			<a href="http://sout-ien.herokuapp.com/contacter.php"><h2 style="text-align: center;">N’hésitez pas à me contacter </h2></a>
 </p>

@@ -34,11 +34,11 @@
 <p>
 			<h1 style="text-align: center;"><spam style="color:red">QUI SUIS-JE</spam>  <br></h1><br><hr><br>
 			<h2 style="text-align: center;"><li> Titulaire d’une licence en informatique à l’université de Ouarzazate, je m’appelle Khalid, grand passionné par les mathématiques, l’informatique, l’anglais et la physique que je pratique depuis maintenant de 5 ans.</li> </h2> <br>
-			<h2 ><li> Je donne des cours de soutien pour tous les niveaux (primaire, collège, lycée, supérieur…)</li> </h2> <br>
-			<h2><li> Concernant le déroulement des cours, je propose des cours particuliers individuels ou des travaux de groupe, selon vos préférences.   </li> </h2> <br>
-			<h2><li> Je travaille avec une tablette graphique et un tableau blanc virtuel, garantissant ainsi la fluidité du cours. </li> </h2> <br>
-			<h2><li> J’accorde une grande importance au suivi de l'élève. Grâce une rapide relecture du cours avec celui-ci, je repère les points bloquants. Après une explication adaptée à chacun, je passe à des exercices pratiques pour ancrer les connaissances. La séance suivante, je vérifie que les connaissances sont toujours maîtrisées avant de passer à la suite.</li></h2><br>
-			<h2><li> Nous réalisons des exemples de projets en programmation </li> </h2>
+			<h2 style="text-align: center;"><li> Je donne des cours de soutien pour tous les niveaux (primaire, collège, lycée, supérieur…)</li> </h2> <br>
+			<h2 style="text-align: center;"><li> Concernant le déroulement des cours, je propose des cours particuliers individuels ou des travaux de groupe, selon vos préférences.   </li> </h2> <br>
+			<h2 style="text-align: center;"><li> Je travaille avec une tablette graphique et un tableau blanc virtuel, garantissant ainsi la fluidité du cours. </li> </h2> <br>
+			<h2 style="text-align: center;"><li> J’accorde une grande importance au suivi de l'élève. Grâce une rapide relecture du cours avec celui-ci, je repère les points bloquants. Après une explication adaptée à chacun, je passe à des exercices pratiques pour ancrer les connaissances. La séance suivante, je vérifie que les connaissances sont toujours maîtrisées avant de passer à la suite.</li></h2><br>
+			<h2 style="text-align: center;"><li> Nous réalisons des exemples de projets en programmation </li> </h2>
 
 </p>
 	</article>

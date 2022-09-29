@@ -8,7 +8,7 @@
 		<title>LES COURS</title>
 	<link rel="icon" type="image/x-icon" href="https://findicons.com/files/icons/2166/oxygen/128/application_vnd_oasis_opendocument_formula.png">
 	<style type="text/css">
-		h2 {
+		h2,h1 {
                      font-family: Times, "Times New Roman", Georgia, serif;
                     }
 	</style>

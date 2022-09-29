@@ -39,7 +39,7 @@
 							<img style="width:400px" src="images/c1.webp"></div>
 						<div style="text-align: center;" ><img  src="images/c2.jpg"><div>
 					
-			<br></div><h2 style="text-align: center;">Si vous avez besoin de soutien scolaire et / ou d’une formations pour apprendre ou vous améliorer en informatique, </h2>
+			<br></div><h2 style="text-align: center;">Si vous avez besoin de soutien scolaire et / ou d’une formation pour apprendre ou vous améliorer, </h2>
 			<h2 style="text-align: center;">vous êtes sur bon endroit</h2>
 			<a href="http://sout-ien.herokuapp.com/contacter.php"><h2 style="text-align: center;">N’hésitez pas à me contacter </h2></a>
 </p>

@@ -95,6 +95,11 @@ body{
 		 a{
 		 	text-decoration-line: none;
 		 }
+		
+		h2 {
+                     font-family: Times, "Times New Roman", Georgia, serif;
+                    }
+	
 		</style>
 </head>
 <body>
